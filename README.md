@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!DOCTYPE html>
 <html>
 <head>
 	<title>CSS</title>
@@ -14,4 +13,4 @@
 	<h1>This is a heading </h1>
 
 </body>
-</html>>
+</html>
